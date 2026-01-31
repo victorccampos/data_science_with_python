@@ -7,4 +7,7 @@
 
 __Fonte__: [https://basedosdados.org/](https://basedosdados.org/)
 
+
+A partir da aula 3, achei o curso bem **ruim** e apenas assisti as aulas sem fazer os desafios.
+
 ---
